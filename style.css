@@ -1,0 +1,170 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+h3 {
+    font-family: Work Sans;
+}
+
+.img-banner {
+    width: 400px;
+}
+
+.banner-contant {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.banner {
+    background-color: #F9F6E2;
+    ;
+
+}
+
+.promo-code {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.color-cng {
+    color: #E527B2;
+}
+
+#btn {
+    height: 30px;
+    border-radius: 8px;
+    width: 100px;
+    border: none;
+    background-color: #E527B2;
+    color: white;
+}
+
+#btn:hover {
+    background-color: #e05abd
+}
+
+.star {
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.cart {
+
+    align-items: center
+}
+
+.title-add {
+    align-items: center;
+    text-align: center;
+}
+
+.cart {
+    width: 290px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    background-color: white;
+    padding-top: 20px;
+    height: 300px;
+}
+
+.img {
+
+    width: 100px;
+    height: 100px;
+    align-items: center;
+
+
+}
+
+.image-bg {
+    background-color: #1111110D;
+    display: flex;
+    width: 250px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+}
+
+.carts {
+    display: flex;
+
+    gap: 20px;
+    justify-content: center;
+
+
+}
+
+body {
+    background-color: #1111110D;
+}
+
+.title {
+    padding-left: 65px;
+}
+
+.Coupon-code {
+    padding: 20px;
+    background-color: white;
+    width: 250px;
+}
+
+.top {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.Coupon-code {
+    margin-top: 10px;
+}
+
+.ba {
+    margin-left: 50px;
+    width: 200px;
+    height: 30px;
+    margin-top: -20px;
+    background-color: #E527B2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.carts-2 {
+    margin-left: 65px;
+    display: flex;
+    gap: 20px;
+    padding-bottom: 100px;
+}
+.ba:hover {
+    background-color: #e05abd;
+}
+.buy{
+    font-size: 18px;
+    font-weight: 600;
+}
+#cupon-in{
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.apply{
+    height: 25px;
+    width: 60px;
+    border-radius: 5px;
+    border: none;
+    background-color: #E527B2;
+    color: white;
+}
+.apply:hover {
+    background-color: #e05abd;
+}
